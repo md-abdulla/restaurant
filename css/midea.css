@@ -1,0 +1,108 @@
+@media(max-width: 1199px) {
+    .offer h6 {
+        position: absolute;
+        left: 80% !important;
+        top: -31% !important;
+        background: #dbb84d;
+        padding: 5px;
+        color: #fff;
+    }
+    form .far {
+        position: absolute;
+        top: 31px !important;
+        right: 205px !important;
+        color: gray;
+    }
+}
+
+@media(max-width: 991px) {
+    .bannercont h1 {
+        font-size: 50px !importan;
+    }
+    .offer h6 {
+        position: absolute;
+        left: 72% !important;
+        top: -31% !important;
+        background: #dbb84d;
+        padding: 5px;
+        color: #fff;
+    }
+    form .far {
+        position: absolute;
+        top: 31px;
+        right: 111px !important;
+        color: gray;
+    }
+}
+
+@media(max-width: 767px) {
+    .bannercont h1 {
+        font-size: 55px !important;
+    }
+    .offer h6 {
+        position: absolute;
+        left: 82% !important;
+        top: -31% !important;
+        background: #dbb84d;
+        padding: 5px;
+        color: #fff;
+    }
+    #section6 img {
+        display: block;
+        margin: 0 auto;
+    }
+    form .far {
+        position: absolute;
+        top: 31px;
+        right: 255px !important;
+        color: gray;
+    }
+}
+
+@media(max-width: 575px) {
+    #section1 {
+        width: 572px;
+    }
+    .bannercont h1 {
+        font-size: 45px;
+    }
+    #section2 {
+        width: 572px;
+    }
+    #section3 {
+        width: 572px;
+    }
+    #section4 {
+        width: 572px;
+    }
+    #section5 {
+        width: 572px;
+    }
+    #section6 {
+        width: 572px;
+    }
+    #section6 img {
+        display: block;
+        margin: 0 auto;
+    }
+    .offer h6 {
+        position: absolute;
+        left: 83% !important;
+        top: -40% !important;
+        background: #dbb84d;
+        padding: 5px;
+        color: #fff;
+    }
+    form .far {
+        position: absolute;
+        top: 31px;
+        right: 290px !important;
+        color: gray;
+    }
+    footer {
+        width: 572px;
+    }
+    .copy {
+        width: 572px;
+    }
+}
